@@ -1,0 +1,11 @@
+{
+ "name": "UFO",
+ "website": "https://bscscan.com/token/0x03F9eAC28F5151AaFFC11849B40f12D163Cbb1E9",
+ "description": "UFO to da moon!",
+ "explorer": "https://bscscan.com/token/0x03F9eAC28F5151AaFFC11849B40f12D163Cbb1E9",
+ "type": "BEP20",
+ "symbol": "UFO",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x03F9eAC28F5151AaFFC11849B40f12D163Cbb1E9"
+}
